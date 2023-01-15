@@ -147,6 +147,27 @@
     text-decoration: underline;
 }
 
+.sing-up-login-back {
+    margin: 25px auto 0 auto;
+}
+
+.sing-up-login-back span:first-child {
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+
+.sing-up-login-back span:last-child {
+    font-size: 14px;
+    font-weight: 800;
+    margin-left: 5px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+}
+.sing-up-login-back span:last-child:hover{
+    text-decoration: underline;
+}
+
 /* Login end */
 
 
