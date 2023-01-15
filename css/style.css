@@ -164,7 +164,8 @@
     cursor: pointer;
     font-family: 'Poppins', sans-serif;
 }
-.sing-up-login-back span:last-child:hover{
+
+.sing-up-login-back span:last-child:hover {
     text-decoration: underline;
 }
 
@@ -219,7 +220,7 @@ nav {
 }
 
 .brands-drop-down {
-    background-color: #0B0B0B;
+    background-color: rgb(37, 37, 37);
     display: none;
     left: -10px;
     padding: 6px 15px;
